@@ -3,6 +3,7 @@
 - 🔭 Atualmente eu estou estudando Front-end 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Conectando-me pelo Email: jjjjmoraes94@gmail.com e Linkedin: https://www.linkedin.com/in/joel-lima-da-silva-32705623a
+- 👨‍💻 Meu curriculo Online: https://jlimadasilva.github.io/Curriculo_JoelSilva
 - 😄 Pronouns: Ele / Dele
 
 <div align="center">
