@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Joel Lima da Silva 👋
 
-- 🔭 Atualmente eu estou estudando Front-end 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🎓 Cursando Sitemas de Informação - UFRA
+- 🔭 Atualmente eu estou estudando Back-End
 - 📫 Conectando-me pelo Email: jjjjmoraes94@gmail.com e Linkedin: https://www.linkedin.com/in/joel-lima-da-silva-32705623a
 - 👨‍💻 Meu curriculo Online: https://jlimadasilva.github.io/Curriculo_JoelSilva
 
@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="joelC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="joelC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971761708303515680/1033073996486418442/picasion.com_74f0d764a08c5268d849c2afeda5c62b.gif">
 </div>
 
