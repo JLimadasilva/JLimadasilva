@@ -1,8 +1,8 @@
 ### Olá!! Eu sou Joel Lima da Silva 👋
 
 - 🎓 Cursando Sistemas de Informação - UFRA
-- 🔭 Atualmente eu estou estudando Back-End
-- 📫 Conectando-me pelo Email: jjjjmoraes94@gmail.com e Linkedin: https://www.linkedin.com/in/joel-lima-da-silva-32705623a
+- 🔭 Atualmente eu estou estudando Banco de Dados com SQL
+- 📫 Conectando-me pelo Email: limajoel.jl20@gmail.com e Linkedin: https://www.linkedin.com/in/joel-lima-143826346/
 - 👨‍💻 Meu curriculo Online: https://jlimadasilva.github.io/Curriculo_JoelSilva
 
 
