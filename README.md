@@ -17,8 +17,6 @@ Também possuo conhecimentos em:
 - Desenvolvimento Front-End (HTML, CSS, JavaScript)
 - Git e GitHub para versionamento de código
 
-## 🚀 Estou em busca de oportunidades para aprender mais, participar de projetos e crescer na área de Banco de Dados.
-
 Fique à vontade para explorar meus repositórios e acompanhar minha jornada!
 
 📫 Entre em contato:
