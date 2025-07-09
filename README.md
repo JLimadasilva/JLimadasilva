@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Joel Lima
 
-<!--
-**JLimadasilva/JLimadasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e entusiasta da área de tecnologia, com foco no desenvolvimento de habilidades voltadas para **Banco de Dados**. Estou em constante evolução, estudando e praticando para me tornar um **Administrador de Banco de Dados (DBA)**.
 
-Here are some ideas to get you started:
+## 💼 Objetivo
+Atuar profissionalmente como DBA, contribuindo com a organização, integridade e desempenho dos dados nas aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Áreas de interesse
+- Administração de Banco de Dados
+- SQL e NoSQL
+- Modelagem de Dados
+- Backup e Recuperação
+- Monitoramento de performance
+
+## 👨‍💻 Conhecimentos adicionais
+Também possuo conhecimentos em:
+- Desenvolvimento Front-End (HTML, CSS, JavaScript)
+- Git e GitHub para versionamento de código
+
+## 🚀 Estou em busca de oportunidades para aprender mais, participar de projetos e crescer na área de Banco de Dados.
+
+Fique à vontade para explorar meus repositórios e acompanhar minha jornada!
+
+📫 Entre em contato:
+- Email: [limajoel.jl20@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/joel-lima-143826346/]
