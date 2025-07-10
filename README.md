@@ -20,7 +20,7 @@ Também possuo conhecimentos em:
 Fique à vontade para explorar meus repositórios e acompanhar minha jornada!
 
 📫 Entre em contato:
-- Email: [limajoel.jl20@gmail.com]
+- Email: limajoel.jl20@gmail.com
 - "[LinkedIn](https://www.linkedin.com/in/joel-lima-143826346/)"
 
 ---
