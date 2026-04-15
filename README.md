@@ -74,29 +74,7 @@ Fique à vontade para explorar meus repositórios e acompanhar minha jornada!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <br/>
-<br/>
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JLimadasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLimadasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-
-</p>
-<br/>
 <br/>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JLimadasilva/JLimadasilva/output/github-contribution-grid-snake-dark.svg">
